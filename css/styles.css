@@ -1,0 +1,57 @@
+body{
+    background: #E6E6E6;
+}
+
+header{
+    text-align: center;
+}
+
+
+main{
+    margin:20px;
+    background: white;
+}
+
+h1{
+    background: rgb(181, 179, 179);
+    color:#005677;
+    font-size: 35px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.separadores{
+    height: 60px;
+    background: white;
+}
+
+section p{
+    background: white;
+}
+
+h2{
+    background: rgb(181, 179, 179);
+    color:#005677;
+    font-style: 17px;
+    height: 30px;
+    text-transform: uppercase;
+    padding: 3px 2px 2px 8px;
+}
+
+.titleData{
+    font-style: italic;
+    font-weight: bold;
+}
+
+.pData{
+    margin-left: 80px;
+}
+
+footer{
+    background: #005677;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
